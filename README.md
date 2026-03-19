@@ -1,6 +1,3 @@
-<img width="1235" height="358" alt="kubernetes-local-deployment" src="https://github.com/user-attachments/assets/4f473bf6-f4b1-4167-a7b7-aad8be3388e7" />
-# Kubernetes Local Deployment with Minikube
-
 ## Project Overview
 
 This project demonstrates how to deploy a **containerized Python Flask application** on a local Kubernetes cluster using **Minikube**.
